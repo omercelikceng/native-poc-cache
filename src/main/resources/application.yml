@@ -1,6 +1,6 @@
 
 
 hazelcast:
-  addresses: localhost:5701
+  addresses: hz1:5701
 
 
